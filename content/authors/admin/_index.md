@@ -31,7 +31,7 @@ education:
   - course: Ph.D. in Statistics and Public Policy
     institution: Carnegie Mellon University
     year: 2023
-  - course: MS in Statistics & Data Science
+  - course: MS in Statistics
     institution: Carnegie Mellon University
     year: 2020
   - course: BS in Mathematical Statistics
