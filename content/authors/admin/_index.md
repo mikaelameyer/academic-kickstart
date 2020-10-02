@@ -59,7 +59,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5BKKgQ5Wk8TWFQ_YHBE9LeNDAXepsX2032FvE2l3yj6GXHBv8ycqNn5lvJfrFh8kjTDuXVQcNP1B1hzCafw0MDWIYmzw&user=LCmGrl4AAAAJ
 - icon: cv
   icon_pack: ai
-  link: pdf/final_CV_04_2020.pdf
+  link: pdf/MIKAELA_MEYER_CV_100220.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ user_groups:
 # - Visitors
 ---
 
-My name is Mikaela Meyer, and I'm a PhD student and [NSF Graduate Research Fellowship Program](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) (NSF GRFP) Fellow in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I earned my BS in Mathematical Statistics and Applied Statistics from Purdue University in May 2018. I am the 2017 [Truman Scholar](https://www.truman.gov/2017-truman-scholars) from Indiana. Currently, my research interests include fair machine learning (FATML), causal inference, applying statistics to criminal justice questions and statistics pedagogy. When I'm not in the office, you can usually find me playing intramural sports, cheering for the Boilermakers, or having fun at board game night.
+My name is Mikaela Meyer, and I'm a PhD student and [NSF Graduate Research Fellowship Program](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) (NSF GRFP) Fellow in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I earned my BS in Mathematical Statistics and Applied Statistics from Purdue University in May 2018. I am the 2017 [Truman Scholar](https://www.truman.gov/2017-truman-scholars) from Indiana. Currently, my research interests include fairness in pretrial risk assessments, causal inference, applying statistics to criminal justice questions and statistics pedagogy. When I'm not in the office, you can usually find me playing intramural sports, cheering for the Boilermakers, or having fun at board game night.
