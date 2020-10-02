@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Statistics Summer Associate"
+  company = "RAND Corporation"
+  company_url = ""
+  location = "Remote"
+  date_start = "2020-06-01"
+  date_end = "2020-08-21"
+  description = """Automated merging of multiple structure data sets for use in the Coastal Louisiana Flood Risk Assessment (CLARA) model's damage calculations
+  
+  Calculated future flood return period estimates based on projections from three regional climate models for Pittsburgh"""
+
+[[experience]]
   title = "Applied Research and Methods Intern"
   company = "Government Accountability Office"
   company_url = ""
