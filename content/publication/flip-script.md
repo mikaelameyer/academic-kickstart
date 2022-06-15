@@ -2,7 +2,7 @@
 title = "Flipping the Script on Criminal Justice Risk Assessment: An actuarial model for assessing the risk the federal sentencing system poses to defendants"
 
 # Date first published.
-date = "2022-06-21"
+date = "2022-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mikaela Meyer", "Aaron Horowitz", "Erica Marshall", "Kristian Lum"]
