@@ -39,7 +39,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/full/10.1080/2330443X.2022.2071369"
-url_preprint = "https://arxiv.org/pdf/2105.08859.pdf"
+url_preprint = ""
 url_code = "https://github.com/mmeyer717/covid-crime"
 url_dataset = ""
 url_project = ""
