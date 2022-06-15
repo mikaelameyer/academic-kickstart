@@ -1,0 +1,65 @@
++++
+title = "Flipping the Script on Criminal Justice Risk Assessment: An actuarial model for assessing the risk the federal sentencing system poses to defendants"
+
+# Date first published.
+date = "2022-06-23"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["M Meyer", "A Horowitz", "E Marshall", "K Lum"]
+
+# Publication name and optional abbreviated version.
+publication = "Presentation at FAccT 2022"
+publication_short = "Presentation at FAccT 2022"
+
+# Abstract and optional shortened version.
+abstract = "In the criminal justice system, algorithmic risk assessment instruments are used to predict the risk a defendant poses to society; examples include the risk of recidivating or the risk of failing to
+appear at future court dates. However, defendants are also at risk of harm from the criminal justice system. To date, there exists no risk assessment instrument that considers the risk the system
+poses to the individual. We develop a risk assessment instrument that “flips the script.” Using data about U.S. federal sentencing decisions, we build a risk assessment instrument that predicts the
+likelihood an individual will receive an especially lengthy sentence given factors that should be legally irrelevant to the sentencing decision. To do this, we develop a two-stage modeling approach.
+Our first-stage model is used to determine which sentences were “especially lengthy.” We then use a second-stage model to predict the defendant’s risk of receiving a sentence that is flagged as especially lengthy given factors that should be legally irrelevant. The
+factors that should be legally irrelevant include, for example, race, court location, and other socio-demographic information about the defendant. Our instrument achieves comparable predictive accuracy to risk assessment instruments used in pretrial and parole
+contexts. We discuss the limitations of our modeling approach and use the opportunity to highlight how traditional risk assessment instruments in various criminal justice settings also suffer from
+many of the same limitations and embedded value systems of their creators."
+abstract_short = ""
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = ["ada/index.md"]
+
+# Links (optional).
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
+
+
++++
