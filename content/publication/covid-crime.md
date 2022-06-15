@@ -2,7 +2,7 @@
 title = "Changes in Crime Rates During the COVID-19 Pandemic"
 
 # Date first published.
-date = "2021-05-20"
+date = "2022-06-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mikaela Meyer", "Ahmed Hassafy", "Gina Lewis", "Prasun Shrestha", "Amelia M. Haviland", "Daniel S. Nagin"]
