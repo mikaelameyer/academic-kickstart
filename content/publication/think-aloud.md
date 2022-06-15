@@ -19,8 +19,8 @@ authors = ["Alex Reinhart", "Ciaran Evans", "Amanda Luby", "Josue Orellana", "Mi
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint on arXiv"
-publication_short = "Preprint on arXiv"
+publication = "Journal of Statistics and Data Science Education"
+publication_short = "Journal of Statistics and Data Science Education"
 
 # Abstract and optional shortened version.
 abstract = "We describe think-aloud interviews with students as a powerful tool to ensure that draft questions fulfill their intended purpose, uncover unexpected misconceptions or surprising readings of questions, and suggest new questions or further pedagogical research. We have conducted more than 40 hour-long think-aloud interviews to develop over 50 assessment questions, and have collected pre- and post-test assessment data from hundreds of introductory statistics students at two institutions."
@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1911.00535"
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
