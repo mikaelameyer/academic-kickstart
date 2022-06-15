@@ -19,8 +19,8 @@ authors = ["Mikaela Meyer", "Ahmed Hassafy", "Gina Lewis", "Prasun Shrestha", "A
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint on arXiv"
-publication_short = "Preprint on arXiv"
+publication = "Statistics and Public Policy"
+publication_short = "Statistics and Public Policy"
 
 # Abstract and optional shortened version.
 abstract = "We estimate changes in the rates of five FBI Part 1 crimes—homicide, auto theft, burglary, robbery, and larceny—during the COVID-19 pandemic from March through December 2020. Using publicly available weekly crime count data from 29 of the 70 largest cities in the U.S. from January 2018 through December 2020, three different linear regression model specifications are used to detect changes. One detects whether crime trends in four 2020 pre- and post-pandemic periods differ from those in 2018 and 2019. A second looks in more detail at the spring 2020 lockdowns to detect whether crime trends changed over successive biweekly periods into the lockdown. The third uses a city-level openness index that we created for the purpose of examining whether the degree of openness was associated with changing crime rates. For homicide and auto theft, we find significant increases during all or most of the pandemic. By contrast, we find significant declines in robbery and larceny during all or part of the pandemic and no significant changes in burglary over the course of the pandemic. Only larceny rates fluctuated with the degree of each city’s lockdown."
@@ -38,7 +38,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/2330443X.2022.2071369"
 url_preprint = "https://arxiv.org/pdf/2105.08859.pdf"
 url_code = "https://github.com/mmeyer717/covid-crime"
 url_dataset = ""
